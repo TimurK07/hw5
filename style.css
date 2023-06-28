@@ -1,0 +1,51 @@
+body {
+  background: #707070;
+}
+
+.card1 {
+  background: #707070;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 10px;
+  width: 1200px;
+  height: 450px;
+  margin-left: 15px;
+}
+
+.card2 {
+  background: #f9ad81;
+  color: #fff;
+  position: absolute;
+  top: 70px;
+  left: 80px;
+  width: 800px;
+  height: 650px;
+  padding-left: 10px;
+  z-index: 1;
+}
+
+.card3 {
+  background: #72d2f8;
+  color: #fff;
+  position: absolute;
+  top: 120px;
+  left: 150px;
+  width: 1500px;
+  height: 270px;
+  padding-left: 10px;
+  z-index: 2;
+}
+
+.card4 {
+  background: #64a864;
+  color: #fff;
+  position: absolute;
+  top: 180px;
+  left: 220px;
+  width: 1000px;
+  height: 900px;
+  padding-left: 10px;
+  z-index: 3;
+}
